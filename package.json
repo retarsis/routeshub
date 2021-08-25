@@ -58,7 +58,7 @@
     "husky": "4.3.8",
     "jest": "26.6.3",
     "lint-staged": "11.0.0",
-    "ng-packagr": "12.0.3",
+    "ng-packagr": "12.2.1",
     "prettier": "2.3.1",
     "protractor": "7.0.0",
     "snyk": "1.604.0",
